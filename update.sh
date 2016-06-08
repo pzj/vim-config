@@ -1,5 +1,5 @@
 cp ~/.vimrc .
-echoo 开始提交本目录
+echo 开始提交本目录
     git add -A
     git status 
     echo 输入本次提交说明...
